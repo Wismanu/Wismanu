@@ -1,8 +1,6 @@
-
 <h2 align="center"> Hi, I'm Wismanu 👋 <br/> </h2> 
 
 <p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
-
 
 <p align="center"> <samp>Hi, My name is Luis Manuel Hernandez. I am a systems engineering student at the Francisco de Paula Santander University located in Ocaña. I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a competitive programmer 🤩 🎈. In my repos you'll find projects created using 
   
@@ -32,39 +30,26 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 **LANGUAGES AND TOOLS:**  
-
-
 <br/>
-<br/>
-<code><img height="40" width="40" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"></code>
-<code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/saas-457964.png"></code>
-<code><img height="40" width="40" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"></code>
-<code><img height="40" width="40" src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg"></code>
-<code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+
+<code><img height="40" width="40" src="https://github.com/user-attachments/assets/eb116776-f492-4d3f-a8ef-e64dc1eba2b6"></code>
+<code><img height="40" width="40" src="https://github.com/user-attachments/assets/9ab33ae3-2923-4d50-8e7a-bfb4ea56c87c"></code>
+<code><img height="40" width="40" src="https://github.com/user-attachments/assets/f15130fc-b326-43ba-98bf-9c24f211196e"></code>
+<code><img height="40" width="40" src="https://github.com/user-attachments/assets/d4fa0361-0f63-4f4d-a4ef-7fe4a3ece3e2"></code>
+<code><img height="40" width="40" src="https://github.com/user-attachments/assets/23e537ff-a44b-4c61-9d67-8f12e62b51d7"></code>
+<code><img height="40" width="40" src="https://github.com/user-attachments/assets/be6603ba-ab45-4501-ba8e-a79984d00f2b"></code>
 
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"></code>
-<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
-
-<br/>
+<code><img height="40" width="40" src="https://github.com/user-attachments/assets/2f33c052-da0a-4864-9777-aad1cfe4ec04"></code>
+<code><img height="40" width="40" src="https://github.com/user-attachments/assets/c082107b-2005-4a42-94a5-6772844dfc84"></code>
+<code><img height="40" width="40" src="https://github.com/user-attachments/assets/b85a7a23-750e-4a7c-807b-a907e3a6b0b8"></code>
+<code><img height="40" width="40" src=""></code>
+<code><img height="40" width="40" src=""></code>
 
 
 
 
 <br/>
-
-
+<br/>
 
 ------
