@@ -1,7 +1,7 @@
 <h2 align="center"> Hi, I'm Wismanu 👋 <br/> </h2> 
 
 <p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
-
+<br/>
 <p align="center"> <samp>Hi, My name is Luis Manuel Hernandez. I am a systems engineering student at the Francisco de Paula Santander University located in Ocaña. I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a competitive programmer 🤩 🎈. In my repos you'll find projects created using 
   
 <br/>
@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+<img align="left" right="" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ```diff
 
@@ -30,12 +30,9 @@
 
 <br/>
 <br/>
-
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 **LANGUAGES AND TOOLS:**  
 <br/>
-
 <code><img height="40" width="40" src="https://github.com/user-attachments/assets/eb116776-f492-4d3f-a8ef-e64dc1eba2b6"></code>
 <code><img height="40" width="40" src="https://github.com/user-attachments/assets/9ab33ae3-2923-4d50-8e7a-bfb4ea56c87c"></code>
 <code><img height="40" width="40" src="https://github.com/user-attachments/assets/f15130fc-b326-43ba-98bf-9c24f211196e"></code>
@@ -47,12 +44,6 @@
 <code><img height="40" width="40" src="https://github.com/user-attachments/assets/2f33c052-da0a-4864-9777-aad1cfe4ec04"></code>
 <code><img height="40" width="40" src="https://github.com/user-attachments/assets/c082107b-2005-4a42-94a5-6772844dfc84"></code>
 <code><img height="40" width="40" src="https://github.com/user-attachments/assets/b85a7a23-750e-4a7c-807b-a907e3a6b0b8"></code>
-<code><img height="40" width="40" src=""></code>
-<code><img height="40" width="40" src=""></code>
-
-
-
-
 <br/>
 <br/>
 
