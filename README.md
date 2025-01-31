@@ -25,11 +25,11 @@
 ! program engineer and web developer
 
 ```
+
 ------
 
-
 <br/>
-<br/>
+<br/><br/>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 **LANGUAGES AND TOOLS:**  
 <br/>
@@ -45,6 +45,8 @@
 <code><img height="40" width="40" src="https://github.com/user-attachments/assets/c082107b-2005-4a42-94a5-6772844dfc84"></code>
 <code><img height="40" width="40" src="https://github.com/user-attachments/assets/b85a7a23-750e-4a7c-807b-a907e3a6b0b8"></code>
 <br/>
-<br/>
+<br/><br/>
+<br/><br/>
+
 
 ------
